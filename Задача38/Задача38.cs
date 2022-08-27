@@ -1,0 +1,18 @@
+﻿// Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+
+Random rnd = new Random();
+double[] d = new double[30];
+double max=0, min=100;
+for (int i = 0; i<d.Length; i++ )  d[i] = rnd.Next(100);
+for (int i = 0; i < d.Length; i++)
+{
+    if (d[i] > max) max = d[i];
+    if (d[i] < min) min = d[i];
+}
+           
+    for (int i = 0; i < d.Length; i++) Console.Write(" "+d[i]);//выводим массив
+    Console.WriteLine();
+        Console.WriteLine("max:  " + max);
+        Console.WriteLine("min  " +min);
+        Console.WriteLine("Разница максимального и минимального:  "+(max - min));
+    

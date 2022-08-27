@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\bin\Debug\net6.0\Задача34.exe
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\bin\Debug\net6.0\Задача34.deps.json
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\bin\Debug\net6.0\Задача34.runtimeconfig.json
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\bin\Debug\net6.0\Задача34.dll
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\bin\Debug\net6.0\Задача34.pdb
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.dll
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\refint\Задача34.dll
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.pdb
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\Задача34.genruntimeconfig.cache
+C:\Users\Саша\Desktop\Обучение Элина\ДЗ по С# 5\Задача34\obj\Debug\net6.0\ref\Задача34.dll
